@@ -18,5 +18,7 @@ public class Main {
         System.out.printf("Число %d чётное \n", a);
         System.out.printf("Your new number: %d \n", a);
         in.close();
+
+
         }
 }
